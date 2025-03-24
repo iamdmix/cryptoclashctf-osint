@@ -17,7 +17,8 @@ OSINT-Workshop/
 │   ├── GoogleDorking.pdf  
 │   ├── Shodan.pdf  
 │   ├── SocmintImageSearch.pdf  
-│   ├── Spiderfoot.pdf  
+│   ├── Spiderfoot.pdf
+│   ├── TheHarvester.pdf  
 │   └── WhoisDomainLookup.pdf  
 ├── resources/              # Extra learning material  
 │   └── GoatedCheatsheet.pdf  
